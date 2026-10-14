@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Povodna verzia\n");
+    printf("Hello verzia2\n");
     return 0;
 }
