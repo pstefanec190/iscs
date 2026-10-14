@@ -1,2 +1,2 @@
-Toto je povodny text.
-Verzia 1
+text.
+Verzia 12

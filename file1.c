@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("main verzia\n");
+
+    printf("Hello verzia2\n");
+
     return 0;
 }
